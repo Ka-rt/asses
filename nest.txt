@@ -1,0 +1,14 @@
+if(a>b){
+        if(a>c){
+                if(a>d){
+                        printf("a");
+                }
+                else{
+                        printf("d");
+                }
+        else{
+                printf("c");
+        }
+else{
+        printf("b");
+}
